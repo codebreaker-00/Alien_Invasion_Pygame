@@ -18,6 +18,8 @@ The Number in "Green" represents High-Score.<br>
 The Number in "Red" represents Current-Score.<br>
 The Number in "Blue" represents Current-level.<br>
 The Ship in the Middle Bottom is our_ship/player of the game.
+<br>
+The Fleet Moves Left and right in the same horizontal level and then come closer by some amount in the vertical level.
 
 ## Controls
 Our Player can move in the left/right direction and can shoot bullets.<br>
@@ -34,4 +36,12 @@ The Followings are the criteria by which game can end.
   <li>You deliberately quit the game by pressing Q.</li>
   <li>Any one of Alien-ships and Our-Ship collide. </li>
   <li>Any one of Alien-ships reaches the bottom of the screen. </li>
+  <li>Close the terminal through which you ran the command. </li>
 </ul> 
+
+## Change in Level and Difficulty
+As we destroy all the ships of the alien fleet a new fleet arrives and this one is a stronger one as compared to earlier one as the speed in which they were travelling horizontally in the same vertical height becomes double as compared to the previous level. <br>
+So does the vertical speed doubles<br>
+But our Ship gets modified level by level too.. Its horizontal speed doubles after every level and also its bullet speed becomes two times of what it was earlier.
+
+<h2 style="font-color='Blue'">Enjoy the Game!!!</h2>
