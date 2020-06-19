@@ -44,4 +44,4 @@ As we destroy all the ships of the alien fleet a new fleet arrives and this one 
 So does the vertical speed doubles<br>
 But our Ship gets modified level by level too.. Its horizontal speed doubles after every level and also its bullet speed becomes two times of what it was earlier.
 
-<h2 style="font-color='Blue'">Enjoy the Game!!!</h2>
+<h2 align="center"> Enjoy the Game!! </h2>
